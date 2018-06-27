@@ -29,3 +29,8 @@ Instructions:
 ## Sample Postman requests:
 
 ![sample postman](http://git_hub/postman.png)
+
+# BRANCHES:
+
+##on brancy 'version-two', I am making a api that does c.r.u.d. on "flower" objects.
+##current road-block is that some of my static files are not rendering, and I don't know why
